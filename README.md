@@ -4,8 +4,9 @@ Creating the ultimate 3D printer for at home
 It all started by buying a cheap chinese 3D printer online to start around at home. Quickly started to improve the printer with external and 3D printer parts. 
 Soon the printer wasn't fast and precise enough for me and I welded a frame together and printed the parts for a whole new printer and reusing parts like the extruder and stepper engines. 
 <img width="5333" height="3000" alt="DSC_0027_2" src="https://github.com/user-attachments/assets/052dbdf2-99df-4c0d-a427-9ade2c4eb2e9" />
-<img width="5333" height="3000" alt="DSC_0276_1" src="https://github.com/user-attachments/assets/055f6d7d-785d-49b6-92ee-611965ebbd98" />
+
 <img width="3000" height="5333" alt="DSC_0175_1" src="https://github.com/user-attachments/assets/7d10bc3a-c675-4a76-9921-c525d38c5af4" />
+<img width="5333" height="3000" alt="DSC_0276_1" src="https://github.com/user-attachments/assets/055f6d7d-785d-49b6-92ee-611965ebbd98" />
 
 This printer also became too slow and not precise enough for me, next to that I had quite some theoretical work going on so I wanted an engineering challenge. After a few weeks of designing and drawing in Solidworks I ordered the parts and started building a whole new 3D printer. 
 
