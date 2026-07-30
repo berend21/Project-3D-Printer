@@ -1,8 +1,26 @@
 # Project-3D-Printer
 Creating the ultimate 3D printer for at home
 
+It all started by buying a cheap chinese 3D printer online to start around at home. Quickly started to improve the printer with external and 3D printer parts. 
+Soon the printer wasn't fast and precise enough for me and I welded a frame together and printed the parts for a whole new printer and reusing parts like the extruder and stepper engines. 
+<img width="5333" height="3000" alt="DSC_0027_2" src="https://github.com/user-attachments/assets/052dbdf2-99df-4c0d-a427-9ade2c4eb2e9" />
+<img width="5333" height="3000" alt="DSC_0276_1" src="https://github.com/user-attachments/assets/055f6d7d-785d-49b6-92ee-611965ebbd98" />
+<img width="3000" height="5333" alt="DSC_0175_1" src="https://github.com/user-attachments/assets/7d10bc3a-c675-4a76-9921-c525d38c5af4" />
+
+This printer also became too slow and not precise enough for me, next to that I had quite some theoretical work going on so I wanted an engineering challenge. After a few weeks of designing and drawing in Solidworks I ordered the parts and started building a whole new 3D printer. 
+
 <img width="1686" height="877" alt="Screenshot 2026-07-30 140337" src="https://github.com/user-attachments/assets/f82e8ee7-cab2-4d06-b5b4-e18e6bf661cf" />
 <img width="1688" height="879" alt="Screenshot 2026-07-30 140404" src="https://github.com/user-attachments/assets/36cc712c-9f77-4f80-89ca-057ae4558373" />
 <img width="1684" height="870" alt="Screenshot 2026-07-30 140443" src="https://github.com/user-attachments/assets/2bb75657-94cf-446e-95d9-7c3d58bfd89e" />
 <img width="1686" height="881" alt="Screenshot 2026-07-30 140511" src="https://github.com/user-attachments/assets/cea154fd-4187-4715-9ca4-c73bacdc98f3" />
 <img width="1687" height="874" alt="Screenshot 2026-07-30 140548" src="https://github.com/user-attachments/assets/b6425257-251d-43a7-80f9-1f9f3721578c" />
+
+<img width="720" height="1512" alt="Snapchat-1746937722" src="https://github.com/user-attachments/assets/54c39f57-6c93-4c4f-95c4-77be8c33b9e9" />
+<img width="3000" height="4000" alt="DSC_0032" src="https://github.com/user-attachments/assets/c65e6d69-f6bf-4f27-bd9f-5024c7d5ac72" />
+<img width="3000" height="4000" alt="DSC_0057" src="https://github.com/user-attachments/assets/f208547d-50a1-4969-8022-0cdf9cb03174" />
+<img width="3000" height="4000" alt="DSC_0058" src="https://github.com/user-attachments/assets/35e9c5d0-8bdd-4bcb-b077-4432a403474d" />
+<img width="3000" height="4000" alt="DSC_0130" src="https://github.com/user-attachments/assets/0b1c3a66-9391-4d77-b879-d626b41eee1e" />
+<img width="4000" height="3000" alt="DSC_0171" src="https://github.com/user-attachments/assets/7b820f48-d372-4019-b30b-ee722ef3ae24" />
+<img width="3000" height="4000" alt="DSC_0219" src="https://github.com/user-attachments/assets/2acbf996-8de4-43d5-9fac-cbcea6210e72" />
+<img width="3000" height="4000" alt="DSC_0240" src="https://github.com/user-attachments/assets/681d210a-c05a-4b30-af7b-a7d56a72da2c" />
+<img width="4000" height="3000" alt="DSC_0220" src="https://github.com/user-attachments/assets/bcee4ea6-dc6f-431f-9de4-d149a60d0de8" />
