@@ -1,4 +1,3 @@
-<img width="562" height="871" alt="20230829_212511" src="https://github.com/user-attachments/assets/83b0af32-faa1-404e-ac24-5523c60b5e2e" />
 # Project-3D-Printer
 Creating the ultimate 3D printer for at home
 
@@ -26,3 +25,4 @@ This printer also became too slow and not precise enough for me, next to that I 
 <img width="3000" height="4000" alt="DSC_0219" src="https://github.com/user-attachments/assets/2acbf996-8de4-43d5-9fac-cbcea6210e72" />
 <img width="3000" height="4000" alt="DSC_0240" src="https://github.com/user-attachments/assets/681d210a-c05a-4b30-af7b-a7d56a72da2c" />
 <img width="4000" height="3000" alt="DSC_0220" src="https://github.com/user-attachments/assets/bcee4ea6-dc6f-431f-9de4-d149a60d0de8" />
+<img width="562" height="871" alt="20230829_212511" src="https://github.com/user-attachments/assets/83b0af32-faa1-404e-ac24-5523c60b5e2e" />
