@@ -1,3 +1,4 @@
+<img width="2628" height="3456" alt="20230829_212640" src="https://github.com/user-attachments/assets/0f195a27-7a9c-42c1-be57-22fae3f693a0" />
 # Project-3D-Printer
 Creating the ultimate 3D printer for at home
 
@@ -19,6 +20,10 @@ This printer also became too slow and not precise enough for me, next to that I 
 <img width="720" height="1512" alt="Snapchat-1746937722" src="https://github.com/user-attachments/assets/54c39f57-6c93-4c4f-95c4-77be8c33b9e9" />
 <img width="3000" height="4000" alt="DSC_0032" src="https://github.com/user-attachments/assets/c65e6d69-f6bf-4f27-bd9f-5024c7d5ac72" />
 <img width="3000" height="4000" alt="DSC_0057" src="https://github.com/user-attachments/assets/f208547d-50a1-4969-8022-0cdf9cb03174" />
+<img width="3000" height="4000" alt="DSC_0616" src="https://github.com/user-attachments/assets/c81a5ac0-ad4b-41e4-bb5b-4124bce22a68" />
+<img width="3000" height="4000" alt="DSC_0065" src="https://github.com/user-attachments/assets/ff4032f7-b519-45e2-805e-73c1f5345496" />
+<img width="2331" height="3199" alt="DSC_0030" src="https://github.com/user-attachments/assets/34f08005-0b0a-42ef-8a3b-c4eed5b223fc" />
+<img width="2486" height="2824" alt="DSC_0029" src="https://github.com/user-attachments/assets/97d53c6e-422c-47d5-9bc9-66f68f267043" />
 <img width="3000" height="4000" alt="DSC_0058" src="https://github.com/user-attachments/assets/35e9c5d0-8bdd-4bcb-b077-4432a403474d" />
 <img width="3000" height="4000" alt="DSC_0130" src="https://github.com/user-attachments/assets/0b1c3a66-9391-4d77-b879-d626b41eee1e" />
 <img width="4000" height="3000" alt="DSC_0171" src="https://github.com/user-attachments/assets/7b820f48-d372-4019-b30b-ee722ef3ae24" />
