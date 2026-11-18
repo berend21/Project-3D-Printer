@@ -14,7 +14,7 @@ The development process covers the complete engineering lifecycle, from system r
 
 ## System Characteristics
 | Parameter | Configuration |
-|-|-|
+|---|----|
 |Kinematics| CoreXY |
 |Firmware | Duet 2 WiFi |
 |Build Volume | 270 x 270 x 250 mm |
