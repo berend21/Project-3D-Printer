@@ -1,6 +1,52 @@
 
 # Project-3D-Printer
-Creating the ultimate 3D printer for at home
+## Custom CoreXY 3D Printer — Systems Engineering Project
+An independently developed electromechanical engineering project focused on the design, integration and validation of a custom CoreXY 3D printer.
+
+The project combines mechanical engineering, electrical design, embedded control, firmware configuration and system-level verification.
+
+## Project Overview
+This project explores the design and development of a custom 3D printer intended to provide reliable, precise and maintainable additive manufacturing at home.
+
+The machine evolved from modifications to an existing consumer 3D printer into a custom mechanical design developed in SolidWorks.
+
+The development process covers the complete engineering lifecycle, from system requirements and architectural decisions through mechanical construction, electrical integration, firmware configuration and performance validation.
+
+## System Characteristics
+| Parameter | Configuration |
+|-|-|
+|Kinematics| CoreXY |
+|Firmware | Duet 2 WiFi |
+|Build Volume | 270 x 270 x 250 mm |
+|Z probing | BLTouch configuration |
+|CAD | SolidWorks |
+
+## Engineering Domains
+### Mechanical Engineering
+- Frame and structural design
+- CoreXY motion architecture
+- Linear motion components
+- Gantry and toolhead design
+- Mechanical assembly and alignment
+### Electrical Engineering
+- Controller integration
+- Stepper motor interfaces
+- Heater and temperature sensor integration
+- Endstop and probe interfaces
+- Power distribution and wiring
+### Embedded Systems
+- RepRapFirmware configuration
+- Motion configuration
+- Homing and probing macros
+- Thermal control
+- Machine configuration management
+### Systems Engineering
+- System requirements
+- Architecture definition
+- Interface documentation
+- Engineering design decisions
+- Verification and validation
+- Requirements traceability
 
 It all started by buying a cheap chinese 3D printer online to start around at home. Quickly started to improve the printer with external and 3D printer parts. 
 Soon the printer wasn't fast and precise enough for me and I welded a frame together and printed the parts for a whole new printer and reusing parts like the extruder and stepper engines. 
