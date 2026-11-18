@@ -25,7 +25,7 @@ flowchart TB
     CTRL["Duet 2 WiFi"]
 
     subgraph MECH["Mechanical System"]
-        FRAME["Welded Frame"]
+        FRAME["Custom Frame"]
         XY["CoreXY Motion"]
         Z["Z Axis"]
         EXT["Extrusion System"]
@@ -65,7 +65,7 @@ Provides the mechanical foundation for all
 machine components.
 
 Architecture:
-- Custom welded frame.
+- Custom frame.
 - Mechanical mounting interfaces.
 - Motion-system support structures.
 
@@ -121,9 +121,7 @@ against the physical machine.
 
 <text color="secondary" size="xs">The diagram is a functional overview, not an electrical wiring schematic. Its signal paths must be refined using the actual controller configuration.</text>
 
-## File 3 — `docs/03-architecture/mechanical-architecture.md`
 
-This document should explain the custom welded frame, which is one of the most distinctive engineering aspects of your project.
 
 <CodeBlock language="markdown" editable>
 # Mechanical Architecture
@@ -135,7 +133,7 @@ custom CoreXY 3D printer.
 
 ## 2. Structural concept
 
-The machine uses a custom welded frame as its
+The machine uses a custom frame as its
 primary structural foundation.
 
 The frame supports the motion system, build
@@ -145,29 +143,15 @@ platform, toolhead and associated components.
 
 | ID | Subsystem | Function |
 |---|---|---|
-| MEC-01 | Welded frame | Structural support |
+| MEC-01 | Frame | Structural support |
 | MEC-02 | XY gantry | XY positioning |
 | MEC-03 | Z-axis | Vertical positioning |
 | MEC-04 | Toolhead | Extrusion and deposition |
 | MEC-05 | Build platform | Workpiece support |
 | MEC-06 | Motion transmission | Transfer motor torque |
 
-## 4. Frame engineering
 
-The following parameters shall be documented:
-
-| Parameter | Value |
-|---|---|
-| Frame material | TBD |
-| Profile / tube dimensions | TBD |
-| Wall thickness | TBD |
-| Welding process | TBD |
-| Joint configuration | TBD |
-| Overall dimensions | TBD |
-| Frame mass | TBD |
-| Surface treatment | TBD |
-
-## 5. Mechanical design considerations
+## 4. Mechanical design considerations
 
 ### Structural integrity
 Evaluate:
@@ -193,7 +177,7 @@ Evaluate:
 - Bearing and rail alignment.
 - Moving mass.
 
-## 6. CAD documentation
+## 5. CAD documentation
 
 Primary design platform: SolidWorks.
 
