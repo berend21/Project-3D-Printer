@@ -117,7 +117,7 @@ kinematics are established by the current baseline.
 Actual component assignments, signal paths and
 mechanical arrangements shall be confirmed
 against the physical machine.
-```
+
 
 <text color="secondary" size="xs">The diagram is a functional overview, not an electrical wiring schematic. Its signal paths must be refined using the actual controller configuration.</text>
 
@@ -211,4 +211,4 @@ stored under validation/measurements/.
 - Manufacturing drawings.
 - Component datasheets.
 - Structural analysis.
-```
+
